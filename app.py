@@ -77,4 +77,4 @@ st.bar_chart(df.set_index("Họ tên")["Tổng kết"])
 
 # Chân trang
 st.markdown("---")
-st.caption("Người tạo ứng dụng: [HỌ TÊN CỦA BẠN] - MSSV: [MSSV CỦA BẠN]")
+st.caption("Người tạo ứng dụng: [Lê Mạnh Trường] - MSSV: [051208005000]")
